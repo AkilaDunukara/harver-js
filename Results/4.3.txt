@@ -1,0 +1,100 @@
+1: active
+It shouldn't break anything!
+3: score
+It shouldn't break anything!
+5: lamp
+6: lunch
+7: arm
+8: importance
+9: article
+It shouldn't break anything!
+11: tube
+12: musical
+13: smoke
+14: salmon
+15: seen
+16: avoid
+17: own
+18: coal
+19: stretch
+It shouldn't break anything!
+21: beat
+22: burst
+23: contain
+24: offer
+25: classroom
+26: flight
+27: lose
+It shouldn't break anything!
+It shouldn't break anything!
+30: nation
+It shouldn't break anything!
+32: story
+33: chosen
+34: noun
+35: rhyme
+36: porch
+It shouldn't break anything!
+38: upper
+39: driven
+40: hold
+It shouldn't break anything!
+42: rear
+43: congress
+44: after
+45: recent
+It shouldn't break anything!
+47: cost
+It shouldn't break anything!
+49: compare
+50: aside
+51: shaking
+52: only
+53: few
+54: reason
+55: needs
+It shouldn't break anything!
+57: plate
+It shouldn't break anything!
+59: develop
+60: remember
+It shouldn't break anything!
+62: willing
+63: continent
+64: basis
+65: soap
+66: paragraph
+67: frame
+It shouldn't break anything!
+69: stepped
+It shouldn't break anything!
+71: learn
+72: earth
+It shouldn't break anything!
+It shouldn't break anything!
+It shouldn't break anything!
+76: week
+77: plus
+78: build
+79: making
+80: driving
+81: means
+82: both
+83: community
+84: forget
+85: pencil
+It shouldn't break anything!
+87: triangle
+88: toward
+89: thought
+90: breath
+91: buffalo
+It shouldn't break anything!
+93: nothing
+94: image
+95: log
+96: furniture
+97: truth
+98: lying
+99: deeply
+100: orange
